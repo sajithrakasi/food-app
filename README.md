@@ -118,7 +118,10 @@ GET /api/orders/:id
 - Professional UI enhancements
 
 ---
+## Vite Api
+ 
+VITE_API_URL=https://food-app-z5qx.onrender.com
 
 ## Author
 
-Sajithra
+Sajithra 
